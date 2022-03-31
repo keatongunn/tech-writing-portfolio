@@ -1,0 +1,399 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.poke-intro img {
+  width: 400px;
+  height: 400px;
+}
+
+main {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+main :not(li) {
+  text-align: center;
+}
+
+table th {
+  color: royalblue;
+  padding-top: 20px;
+}
+
+header {
+  width: 100%;
+  min-width: 300px;
+  box-sizing: border-box;
+  height: 100px;
+  display: flex;
+  background-color: rgba(15, 17, 161, 0.781);
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px royalblue;
+}
+
+header li a:hover {
+  color: darkblue;
+}
+
+h2 {
+  padding-bottom: 10px;
+  color: royalblue;
+}
+
+td {
+  border: 2px solid royalblue;
+  padding: 5px;
+}
+
+.hockey-outro {
+  padding-top: 20px;
+}
+
+.hockey-intro img {
+  width: 400px;;
+}
+
+.world-juniors {
+  padding-top: 20px;
+}
+
+.jets {
+  padding-top: 20px;
+}
+
+.my-hockey {
+  padding-top: 20px;
+}
+
+.hockey-intro {
+  padding-top: 20px;
+}
+
+.ball {
+  padding-top: 20px;
+}
+
+.mart {
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 300px;
+  justify-content: center;
+}
+
+.areas {
+  padding-top: 20px;
+}
+
+
+.poke-intro {
+  padding-top: 20px;
+}
+
+.poke-intro p {
+  padding-top: 20px;
+}
+
+.catching {
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 500px;
+  justify-content: center;
+}
+
+ol li {
+  padding-top: 10px;
+}
+
+.catching p {
+  padding-top: 20px;
+}
+
+.author {
+  padding-top: 20px;
+}
+
+.additional {
+  padding-top: 20px;
+}
+
+.sec-third {
+  padding-top: 20px;
+}
+
+.tls-ssl {
+  padding-top: 20px;
+}
+
+.p2 {
+  padding-top: 20px;
+}
+
+.security-intro img {
+  padding-top: 20px;
+  width: 400px;
+  height: 200px;
+}
+
+.html-intro img {
+  padding-top: 20px;
+}
+
+.html-intro {
+  padding-top: 20px;
+}
+
+.html-body {
+  padding-top: 20px;
+}
+
+.css-basics {
+  padding-top: 20px;
+}
+
+.html-outro {
+  padding-top: 20px;
+}
+
+.attributes {
+  padding-top: 20px;
+}
+
+.pass-intro {
+  padding-top: 20px;
+}
+
+.pass-body {
+  padding-top: 20px;
+}
+
+.pass-keepers {
+  padding-top: 20px;
+}
+
+.pass-pwned {
+  padding-top: 20px;
+}
+
+.pass-outro {
+  padding-top: 20px;
+}
+
+.hockey {
+  padding-top: 20px;
+}
+
+.pass-pwned img {
+  width: 500px;
+  padding-top: 20px;
+}
+
+.welcome {
+  padding-top: 20px;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+}
+
+.welcome img {
+  width: 300px;
+  height: 400px;
+  padding-top: 20px;
+  
+}
+
+.directory-1 {
+  padding-top: 20px;
+}
+
+.directory-2 {
+  padding-top: 20px;
+}
+
+.directory-2 ul li {
+  list-style: none;
+}
+
+.directory-3 {
+  padding-top: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 15px;
+  max-width: 80%;
+}
+
+.right-menu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  justify-content: space-around;
+}
+
+main h2 a {
+  text-decoration: none;
+}
+
+main h2 a:hover {
+  color: rgba(9, 164, 236, 0.507);
+}
+
+.right-menu li a {
+  text-decoration: none;
+  color: white;
+}
+
+.pass-management {
+  width: 400px;
+}
+
+ol li {
+  text-align: left;
+  margin: 0 auto;
+}
+
+.security {
+  width: 400px;
+}
+
+.html {
+  padding-top: 40px;
+  width: 400px;
+}
+
+.strategy {
+  padding-top: 40px;
+  width: 400px;
+}
+
+.blogs {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.blogs img {
+  height: 300px;
+  max-width: 400px;
+}
+
+.intro {
+  margin: 20px;
+}
+
+.base {
+  margin:20px;
+}
+
+.about {
+  padding-top: 20px;
+}
+
+.container-2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.puppy {
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+}
+
+.puppy img {
+  height: 300px;
+  padding-top: 20px;
+}
+
+.family {
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+}
+
+.family img {
+  height: 300px;
+  padding-top: 20px;
+}
+
+footer {
+  height: 70px;
+  background-color: black;
+  color: white;
+  font-size: small;
+  bottom: 0px;
+  width: 100%;
+  margin-top: 40px;
+  align-items: center;
+  box-sizing: border-box;
+  box-shadow: 2px -2px 2px black;
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-evenly;
+  padding-top: 10px;
+}
+
+footer ul li {
+  padding-top: 15px;
+}
+
+@media only screen and (max-width: 425px) {
+  .right-menu {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  blogs img {
+    width: 300px;
+  }
+
+  img {
+    width: 300px;
+  }
+
+  .blogs {
+    margin: 0 auto;
+  }
+
+  .security {
+    width: 300px;
+  }
+
+  .strategy {
+    width: 300px;
+  }
+
+  .pass-management {
+    width: 300px;
+  }
+
+  .html {
+    width: 300px;
+  }
+
+  main div :not(.container, footer){
+    width: 300px;
+    margin: 0 auto;
+  }
+}
